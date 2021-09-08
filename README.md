@@ -36,3 +36,8 @@ Nih image loli × cecan👍
             }    
             break
 ```
+
+```bash
+Khusus yang bisa ngoding ngap
+Kalo ngga bisa nanti eror salahin Saia:v
+```
