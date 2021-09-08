@@ -1,7 +1,7 @@
 # just-a-mix
 Nih image loli × cecan👍
 
-### Case button
+### Example Case Button:
 ```bash
             case 'waifu':
             case 'loli':
@@ -38,6 +38,13 @@ Nih image loli × cecan👍
 ```
 
 ```bash
-Khusus yang bisa ngoding ngap
-Kalo ngga bisa nanti eror salahin Saia:v
+> Khusus yang bisa ngoding ngap
+> Kalo ngga bisa nanti eror salahin Saia:v
 ```
+
+</Details>
+
+## ```THX TO```
+
+- [`Arya`](https://github.com/Arya-was)
+
